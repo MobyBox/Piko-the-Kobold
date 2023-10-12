@@ -3,6 +3,7 @@ Fan-Made model that recreates @SimplifyAM's OC, Piko the Kobold, as a minecraft 
 It's worth to mention that I took inspiration from @Myahster's posts on Twitter.
 
 You need to have **Figura mod** installed to use this model
+
 Link to Figura Mod [HERE](https://modrinth.com/mod/figura)
 
 # Notes
