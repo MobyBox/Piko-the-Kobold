@@ -2,7 +2,7 @@
 Fan-Made model that recreates @SimplifyAM's OC, Piko the Kobold, as a minecraft character.
 It's worth to mention that I took inspiration from @Myahster's posts on Twitter.
 
-# Disclaimer
+# Note
 Before creating this model I didn't know anything about scripting so it was quite a challenge to get everything I had planned to work, but after a lot of struggle I managed to finish it.
 
 # Features
