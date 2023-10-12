@@ -23,3 +23,5 @@ Link to Figura Mod [HERE](https://modrinth.com/mod/figura)
 2- Drop the rar file there,  right click the file, extract here
 
 3- Open minecraft, lua settings and select Piko v1.0
+
+4- Make sure to upload the avatar to the cloud by clicking the arrow icon below the preview of your character.
