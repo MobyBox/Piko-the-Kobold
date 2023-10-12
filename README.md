@@ -18,5 +18,7 @@ Link to Figura Mod [HERE](https://modrinth.com/mod/figura)
 #  How do you add this into figura?
 
 1- Once you have installed "Figura" go to the following address in your files **.minecraft\figura\avatars**
+
 2- Drop the rar file there,  right click the file, extract here
+
 3- Open minecraft, lua settings and select Piko v1.0
